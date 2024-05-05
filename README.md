@@ -2,8 +2,8 @@
 
 Welcome to the Robot Path Visualization project! This repository contains a collection of Python scripts for visualizing pathfinding algorithms in a grid environment. Whether you're a researcher, student, or hobbyist interested in robotics, artificial intelligence, or path planning, this project provides tools to visualize and analyze different pathfinding algorithms.
 
-<img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/9d9de741-18be-4fdf-a100-fbcc47e90b32" width="500">
-<img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/72a255e9-212b-407a-817a-3c6c92a2cf5d" width="500">
+<img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/9d9de741-18be-4fdf-a100-fbcc47e90b32" width="400">
+<img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/72a255e9-212b-407a-817a-3c6c92a2cf5d" width="400">
 
 ### Installation
 
