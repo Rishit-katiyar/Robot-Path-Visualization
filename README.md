@@ -41,11 +41,11 @@ Contributions to this project are welcome! Whether you want to add new features,
 
 <img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/e501a67e-35fa-4c87-b28f-38d89c50ce0c" width="400">
 <img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/1f98914e-c948-4c2a-bcba-dc52372bfdf2" width="400">
-Sure, here's the conclusion for the README file:
 
 ### Conclusion
 
 The Robot Path Visualization project aims to provide a comprehensive set of tools for visualizing and analyzing pathfinding algorithms in grid-based environments. Whether you're exploring different pathfinding strategies, optimizing for speed and efficiency, or testing algorithms in complex scenarios, this project offers a versatile toolkit to meet your needs. With easy installation, clear documentation, and a collaborative development environment, we hope this project will be a valuable resource for researchers, students, and enthusiasts alike. Feel free to explore the code, experiment with different configurations, and contribute to the project's ongoing development. Happy pathfinding!
+
 
 <img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/c550e551-8d66-4bc4-afb1-ae623d3c8b2e" width="400">
 <img src="https://github.com/Rishit-katiyar/Robot-Path-Visualization/assets/167756997/e3bda7f1-4a3d-4b0f-be36-090b31a98506" width="400">
